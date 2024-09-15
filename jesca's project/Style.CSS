@@ -1,13 +1,17 @@
 body{
-   margin: 0px;
-   padding: 0px; 
+   margin:  0px !important;
+   padding: 0px !important; 
 }
 nav{
-    background-color: brown ;
+    background-color: rgb(49, 145, 145) ;
     height: 70px;
 }
-nava{
+nav a{
     margin: 20px;
-    color:antiquewhite;
-    text text-decoration: none;
+    color:rgb(87, 63, 33);
+     text-align: center;
+}
+header nav ul a{
+    color: brown;
+text-decoration: none;
 }
